@@ -8,7 +8,7 @@ A modern and responsive **Typing Speed Test** web application developed using **
 
 🚀 **Try the application here:**
 
-**https://akhileshakhil55.github.io/Type--X--/**
+**[https://akhileshakhil55.github.io/Type--X--](https://akhileshakhil55.github.io/Type-X-/)/**
 
 ---
 
