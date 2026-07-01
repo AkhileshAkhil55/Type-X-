@@ -68,20 +68,6 @@ Type--X--
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/AkhileshAkhil55/Type--X--.git
-```
-
-2. Open the project folder.
-
-3. Double-click **index.html** or open it using **Live Server** in Visual Studio Code.
-
----
-
 ## 💡 Future Enhancements
 
 - 👤 User Login & Authentication
