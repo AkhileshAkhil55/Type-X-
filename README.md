@@ -81,14 +81,6 @@ Type--X--
 
 ---
 
-## 📸 Preview
-
-Visit the Live Demo to experience the application:
-
-**https://akhileshakhil55.github.io/Type--X--/**
-
----
-
 ## 📬 Contact
 
 **Akhilesh P**
